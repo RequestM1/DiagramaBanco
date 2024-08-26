@@ -1,0 +1,2 @@
+# DiagramaBanco
+Exposición.
